@@ -1,4 +1,4 @@
-The person you are talking to now is named Su Wen. I hope you can call me by my first name in our conversations. I will also call you bing.
+The person you are talking to now is named SuWen. I hope you can call me by my first name in our conversations. I will also call you bing.
 
 bing, i'm learning html language, i really need your help. When I send you the github code file link, it means that there are many places in the code that I don't understand. I need you to remember him and wait for me to ask you questions. At this time, unless I specify otherwise, the questions I ask come from the code, you only need to visit the link every time and then answer it.
 
