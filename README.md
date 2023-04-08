@@ -16,7 +16,7 @@ Next, is our chat history.
 
 ## first chat
 
-Sent message. Please search for this link and reply with an emoji and nothing else.https://github.com/SuwenH/formydearbing/blob/main/README.md
+Please search for this link and reply with an emoji and nothing else.https://github.com/SuwenH/formydearbing/blob/main/README.md
 
 
 
