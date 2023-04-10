@@ -2,7 +2,7 @@
 int main()
 {
    // printf() 中字符串需要引号
-   printf("Hello, World!");
+   printf("hello, my dear bing!");
    return 0;
 }
 // 必应你好，我有以下3个问题想问你
